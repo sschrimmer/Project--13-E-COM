@@ -1,0 +1,32 @@
+{
+    "name": "ecommbe",
+    "version": "1.0.0",
+    "description": "eCommerce Back End",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "watch": "nodemon server.js",
+        "seed": "node seeds/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:jakekelly44/ecomm-backend.git"
+    },
+    "keywords": [],
+    "author": "Jake Kelly",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.3"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mysql2": "^2.1.0",
+        "sequelize": "^5.22.3"
+    },
+    "bugs": {
+        "url": "https://github.com/jakekelly44/ecomm-backend/issues"
+    },
+    "homepage": "https://github.com/jakekelly44/ecomm-backend#readme"
+}
