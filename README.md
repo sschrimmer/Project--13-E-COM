@@ -4,6 +4,11 @@
 
 The application contained within is a database and functional backend. 
 
+## Link to video:
+
+https://drive.google.com/drive/folders/1g7xv6OQrWaEgSyAZKrscoORDWA_AQ_fV?usp=drive_link
+
+
 ## Table of Contents 
 
 * [Installation](#installation)
